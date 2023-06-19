@@ -1,0 +1,144 @@
+/* html categoria */
+
+* {
+    box-sizing: border-box;
+}
+
+body {
+    background-color: black;
+    font-family: Helvetica, sans-serif;
+    font-size: 22px;
+    color: seashell;
+    opacity: 0.9;    
+    margin: 0 auto;
+    width: 100%;
+}
+
+/* header categoria */
+
+header {
+    height: 69px;
+    border-bottom: 1px solid seashell;
+    position: fixed;
+    width: 100%;
+    text-align: right;
+    word-spacing: 10px;
+    background-color: black;
+    z-index: 999;
+}
+
+#m{
+    position: relative;
+    top: 20px;
+    right:10px;
+}
+
+#ft{
+    position: relative;
+    top: 20px;
+    right:10px;
+}
+
+#l{
+    position: relative;
+    top: 20px;
+    right:10px;
+}
+
+#logo {
+    float: left;
+    left:10px;
+    position: relative;
+    top: 9px;
+}
+
+/* main categoria */
+
+main {
+    text-align: center;
+    align-items: center;
+}
+
+.mission {
+    position: relative;
+    background-color: black;
+    bottom: 450px;
+    font-display: center;
+    font-weight: bold;
+    line-height: 15px;
+    padding: 1px;
+    vertical-align: middle;
+}
+
+.fleximg {
+    margin: 10px;
+}
+
+.flextx {
+    margin: 70px;
+    font-weight: bold;
+}
+
+.flextx2 {
+    position: relative;
+    margin: 70px;
+    font-weight: bold;
+    left: 20px;
+}
+
+.locations {
+    position: absolute;
+    top: 1700px;
+    left: 0;
+    right: 0;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.content2 {
+    position: absolute;
+    top: 1750px;
+    left: 0;
+    right: 0;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.flexc1 {
+    display: inline-block;
+    width: 300px;
+    margin: 20px;
+    background-color: black;
+    opacity: 1;
+}
+
+.flexc2 {
+    display: inline-block;
+    width: 300px;
+    margin: 20px;
+    background-color: black;
+    opacity: 1;
+}
+
+.flexc3 {
+    display: inline-block;
+    width: 300px;
+    margin: 20px;
+    background-color: black;
+    opacity: 1;
+}
+
+.final {
+    position: absolute;
+    background-color: black;
+    width: 100%;
+    top: 2180px;
+}
+
+/* footer categoria */
+
+footer {
+    position: absolute;
+    height: 0px;
+    left: 20px;
+}
